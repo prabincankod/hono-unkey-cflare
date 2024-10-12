@@ -15,7 +15,7 @@ To run this project, you will need to add the following environment variables to
 
 - clone the repository.
 - install the packages.
-- reaname the environment variables file `.dev.vars.local` to `.dev.vars` and replace your api key from upkey dashboard.
+- reaname the environment variables file `.dev.vars.local` to `.dev.vars` and replace your api key from [unkey](https://app.unkey.com/apis) dashboard.
 - finally run by using `npm run dev` or by using any other package managers.
 ## License
 
